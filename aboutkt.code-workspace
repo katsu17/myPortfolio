@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "aboutkt",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../../Downloads/portfolio-main/src"
+		},
+		{
+			"name": "public",
+			"path": "../../Downloads/portfolio-main/public"
+		}
+	],
+	"settings": {}
+}
